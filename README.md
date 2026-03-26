@@ -231,7 +231,10 @@ ReactDOM.createRoot(document.getElementById('root')).render(
 )
 ```
 ## OUTPUT
-![alt text](exp6-1.png)
-![alt text](exp6-2.png)
+
+<img width="1919" height="1199" alt="17745130548565315636542028940774" src="https://github.com/user-attachments/assets/4955fa8f-b8ad-4b6f-948d-6f0f07b7457f" />
+<img width="1918" height="1199" alt="17745131779676163365592779368726" src="https://github.com/user-attachments/assets/a8eb25a2-2730-4d84-b20c-5cef75d59f03" />
+
+
 ## RESULT
 The BMI Calculator successfully takes user input for height and weight, performs the BMI calculation in real-time using React state and event handling, and displays the BMI value along with the corresponding health category.
